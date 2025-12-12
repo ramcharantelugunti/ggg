@@ -1,0 +1,77 @@
+{
+    "water": {
+        "title": "Smart Water Analysis",
+        "subtitle": "Groundwater Intelligence System",
+        "description": "Our system utilizes real-time API integrations with Central Ground Water Board (CGWB) data to provide hyper-local water scarcity predictions.",
+        "details": [
+            "Tracks district-level groundwater fluctuation trends (Decadal mean).",
+            "Correlates rainfall deflection with aquifer recharge rates.",
+            "Predicts 'Critical' or 'Over-exploited' blocks before planting season."
+        ],
+        "metrics": [
+            {
+                "label": "Data Source",
+                "value": "CGWB & IMD"
+            },
+            {
+                "label": "Prediction Range",
+                "value": "6 Months"
+            },
+            {
+                "label": "Accuracy",
+                "value": "92%"
+            }
+        ],
+        "demoScenario": "water"
+    },
+    "crop": {
+        "title": "AI Crop Recommendation",
+        "subtitle": "Optimal Yield Engine",
+        "description": "The recommendation engine analyzes soil health, water availability, and market trends to suggest the most profitable and sustainable crops for your specific plot.",
+        "details": [
+            "Matches crop water requirements with anticipated available water.",
+            "Suggests drought-resistant varieties (e.g., Millets) in low-water zones.",
+            "Rotational cropping logic to maintain soil nitrogen levels."
+        ],
+        "metrics": [
+            {
+                "label": "Crops Covered",
+                "value": "25+"
+            },
+            {
+                "label": "Soil Variables",
+                "value": "N-P-K & pH"
+            },
+            {
+                "label": "Yield Boost",
+                "value": "Up to 30%"
+            }
+        ],
+        "demoScenario": "crop"
+    },
+    "risk": {
+        "title": "Crop Risk Assessment",
+        "subtitle": "Failure Probability Model",
+        "description": "A sophisticated Random Forest Machine Learning model that calculates the precise probability of crop failure based on multi-dimensional risk factors.",
+        "details": [
+            "Analyzes historical failure patterns in your district.",
+            "Factors in extreme weather events (heatwaves, unseasonal rain).",
+            "Provides actionable mitigation strategies to lower computed risk."
+        ],
+        "metrics": [
+            {
+                "label": "ML Model",
+                "value": "Random Forest"
+            },
+            {
+                "label": "Training Data",
+                "value": "50,000+ Records"
+            },
+            {
+                "label": "Risk Output",
+                "value": "Low/Med/High"
+            }
+        ],
+        "demoScenario": "risk"
+    }
+}

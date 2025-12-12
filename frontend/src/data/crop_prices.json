@@ -1,0 +1,155 @@
+{
+    "market_prices": {
+        "Rice": {
+            "msp": 2203,
+            "market_avg": 2450,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Wheat": {
+            "msp": 2275,
+            "market_avg": 2400,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Sugarcane": {
+            "msp": 315,
+            "market_avg": 340,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Cotton": {
+            "msp": 6620,
+            "market_avg": 7200,
+            "trend": "down",
+            "unit": "INR/Quintal"
+        },
+        "Maize": {
+            "msp": 2090,
+            "market_avg": 2250,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Pulses": {
+            "msp": 7000,
+            "market_avg": 7800,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Mustard": {
+            "msp": 5650,
+            "market_avg": 5800,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Watermelon": {
+            "msp": null,
+            "market_avg": 1500,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Cucumber": {
+            "msp": null,
+            "market_avg": 1800,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Millets": {
+            "msp": 2500,
+            "market_avg": 2650,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Jowar": {
+            "msp": 3180,
+            "market_avg": 3300,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Bajra": {
+            "msp": 2500,
+            "market_avg": 2600,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Ragi": {
+            "msp": 3846,
+            "market_avg": 4000,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Soybean": {
+            "msp": 4600,
+            "market_avg": 4800,
+            "trend": "down",
+            "unit": "INR/Quintal"
+        },
+        "Groundnut": {
+            "msp": 6377,
+            "market_avg": 6500,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Barley": {
+            "msp": 1850,
+            "market_avg": 2000,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Banana": {
+            "msp": null,
+            "market_avg": 2500,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Orange": {
+            "msp": null,
+            "market_avg": 3500,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Potato": {
+            "msp": null,
+            "market_avg": 1200,
+            "trend": "down",
+            "unit": "INR/Quintal"
+        },
+        "Tomato": {
+            "msp": null,
+            "market_avg": 1500,
+            "trend": "volatile",
+            "unit": "INR/Quintal"
+        },
+        "Onion": {
+            "msp": null,
+            "market_avg": 2200,
+            "trend": "volatile",
+            "unit": "INR/Quintal"
+        },
+        "Muskmelon": {
+            "msp": null,
+            "market_avg": 1800,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        },
+        "Pumpkin": {
+            "msp": null,
+            "market_avg": 1000,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Bitter Gourd": {
+            "msp": null,
+            "market_avg": 2800,
+            "trend": "stable",
+            "unit": "INR/Quintal"
+        },
+        "Okra": {
+            "msp": null,
+            "market_avg": 3000,
+            "trend": "up",
+            "unit": "INR/Quintal"
+        }
+    },
+    "last_updated": "2025-12-10"
+}
